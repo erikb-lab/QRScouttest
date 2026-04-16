@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 body {
+  zoom: 155%;
   overscroll-behavior: contain;
   user-select: none;
 }
